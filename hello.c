@@ -1,6 +1,7 @@
 // hello.c
 #include <stdio.h>
 
+// 修改了一个紧急 bug
 void myFunction() {
     printf("This is my new function.\n");
 }
